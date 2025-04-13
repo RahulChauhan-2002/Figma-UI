@@ -2,7 +2,7 @@ import React from 'react';
 
 const Hero = () => {
   return (
-    <div className="relative"> {/* 1. Make the container relative */}
+    <div className="relative mb-28"> {/* 1. Make the container relative */}
       <div className="flex justify-between mt-24">
         <div className="flex flex-col gap-4 p-8">
           <h1 className="font-bold text-6xl">
