@@ -4,6 +4,7 @@ import Header from './components/Header';
 import Hero from './components/Hero';
 import Client from './components/Client';
 import Community from './components/Community';
+import Community1 from './components/Community1';
 
 function App() {
 
@@ -14,6 +15,7 @@ function App() {
       <Hero/>
       <Client/>
       <Community/>
+      <Community1/>
     </div>
   )
 }
