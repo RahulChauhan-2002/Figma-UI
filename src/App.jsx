@@ -5,6 +5,7 @@ import Hero from './components/Hero';
 import Client from './components/Client';
 import Community from './components/Community';
 import Community1 from './components/Community1';
+import Design from './components/Design';
 
 function App() {
 
@@ -16,6 +17,7 @@ function App() {
       <Client/>
       <Community/>
       <Community1/>
+      <Design/>
     </div>
   )
 }
